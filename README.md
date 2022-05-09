@@ -1,4 +1,4 @@
-# Co-ordinate-C
+# Coordinate-Transformation
 
 This repository contains the code for the following Coordinate System Transformation:
 1) Coverting Geodetic Co-ordinate System to Cartesian Co-ordinate System
